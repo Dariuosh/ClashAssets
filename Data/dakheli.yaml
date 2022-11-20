@@ -1,3 +1,4 @@
 payload:
   - "tasnimnews.com"
   - "*.tasnimnews.com"
+  - "*.digikala.com"
