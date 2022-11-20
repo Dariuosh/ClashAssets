@@ -1,5 +1,8 @@
 payload:
   - "farsnews.ir"
+  - "*.farsnews.ir"
   - "tamin.ir"
   - "telewebion.com"
   - "divar.ir"
+  - "*.divar.ir"
+  - "yahoo.com"
