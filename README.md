@@ -23,4 +23,4 @@
     - GEOIP,IR,DIRECT
 ```
 
-** premium core only **
+***==> premium core only!!***
