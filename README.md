@@ -12,7 +12,7 @@
     ir-bourse:
       behavior: "domain" 
       type: http
-      url: "https://cdn.jsdelivr.net/gh/dariuosh/clashassets@main/Data/ir-bourse.yaml"
+      url: "https://cdn.jsdelivr.net/gh/dariuosh/clashassets@latest/Data/ir-bourse.yaml"
       interval: 3590
       path: /ir-bourse.yaml
    
