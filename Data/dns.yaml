@@ -1,6 +1,17 @@
 payload:
-  - IP-CIDR,1.1.1.1/32
-  - IP-CIDR,1.0.0.1/32
+#CloudFlare
+  - IP-CIDR,1.1.1.0/30
+  - IP-CIDR,1.0.0.0/30
+#Quad9
+  - IP-CIDR,9.9.9.9/32
+  - IP-CIRD,149.112.112.112/32
+#Level3
+  - IP-CIDR,4.2.2.2/32
+  - IP-CIDR,4.2.2.3/32
+  - IP-CIDR,4.2.2.4/32
+#Google Public DNS
+  - IP-CIDR,8.8.4.4/32
   - IP-CIDR,8.8.8.8/32
+#OpenDNS
   - IP-CIDR,208.67.220.220/32
   - IP-CIDR,208.67.222.222/32
