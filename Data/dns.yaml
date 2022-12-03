@@ -4,7 +4,7 @@ payload:
   - IP-CIDR,1.0.0.0/30
 #Quad9
   - IP-CIDR,9.9.9.9/32
-  - IP-CIRD,149.112.112.112/32
+  - IP-CIDR,149.112.112.112/32
 #Level3
   - IP-CIDR,4.2.2.2/32
   - IP-CIDR,4.2.2.3/32
