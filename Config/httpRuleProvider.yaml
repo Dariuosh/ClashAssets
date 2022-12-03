@@ -88,19 +88,19 @@ rule-providers:
   dns:
     behavior: classical
     type: http
-    url: https://cdn.jsdelivr.net/gh/dariuosh/clashassets@main/Data/dns.yaml
+    url: https://cdn.jsdelivr.net/gh/dariuosh/clashassets@latest/Data/dns.yaml
     interval: 3600
     path: /dns.yaml
   telegram:
     behavior: classical
     type: http
-    url: https://cdn.jsdelivr.net/gh/dariuosh/clashassets@main/Data/telegram.yaml
+    url: https://cdn.jsdelivr.net/gh/dariuosh/clashassets@latest/Data/telegram.yaml
     interval: 3590
     path: /telegram.yaml
   open:
     behavior: classical
     type: http
-    url: https://cdn.jsdelivr.net/gh/dariuosh/clashassets@main/Data/open.yaml
+    url: https://cdn.jsdelivr.net/gh/dariuosh/clashassets@latest/Data/open.yaml
     interval: 3580
     path: /open.yaml
 
