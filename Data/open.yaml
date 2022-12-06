@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,alarabiya
   - DOMAIN-KEYWORD,arcgis
   - DOMAIN-KEYWORD,asus
+  - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,azureedge
   - DOMAIN-KEYWORD,bbc
   - DOMAIN-KEYWORD,bbystatic
@@ -29,6 +30,7 @@ payload:
   - DOMAIN-KEYWORD,githubapp
   - DOMAIN-KEYWORD,githubassets
   - DOMAIN-KEYWORD,githubusercontent
+  - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,googleapis
   - DOMAIN-KEYWORD,googlevideo
   - DOMAIN-KEYWORD,gsght
@@ -69,6 +71,7 @@ payload:
   - DOMAIN-KEYWORD,oracle
   - DOMAIN-KEYWORD,parastorage
   - DOMAIN-KEYWORD,pinimg
+  - DOMAIN-KEYWORD,postman
   - DOMAIN-KEYWORD,preply
   - DOMAIN-KEYWORD,puhutv
   - DOMAIN-KEYWORD,quora
