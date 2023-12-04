@@ -1,7 +1,7 @@
 # ClashAssets
 
 
-```
+```yaml
 rule-providers:
   ir-bank:
     behavior: "domain"    
